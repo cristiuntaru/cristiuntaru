@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cristiuntaru
-- 👀 I’m interested in programming
+- 👀 I’m interested in learning programming
 - 🌱 I’m currently learning HTML5 and CSS3
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
